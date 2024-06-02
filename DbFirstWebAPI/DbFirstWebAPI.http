@@ -1,0 +1,6 @@
+@DbFirstWebAPI_HostAddress = http://localhost:5079
+
+GET {{DbFirstWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
